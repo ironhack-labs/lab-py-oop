@@ -1,0 +1,8 @@
+{
+    "github.copilot.chat.agent.autoFix": false,
+    "github.copilot.chat.codeGeneration.useInstructionFiles": false,
+    "github.copilot.chat.customInstructionsInSystemMessage": false,
+    "github.copilot.enable": {
+        "python": false
+    }
+}
